@@ -1,0 +1,14 @@
+com/shiftrota/BuildConfig.java
+ com.shiftrota.BuildConfig
+com/shiftrota/MainActivity.java
+ com.shiftrota.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/shiftrota/ReactNativeFlipper.java
+ com.shiftrota.ReactNativeFlipper
+ com.shiftrota.ReactNativeFlipper$1
+ com.shiftrota.ReactNativeFlipper$2
+ com.shiftrota.ReactNativeFlipper$2$1
+com/shiftrota/MainApplication.java
+ com.shiftrota.MainApplication
+ com.shiftrota.MainApplication$1
