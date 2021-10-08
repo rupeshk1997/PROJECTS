@@ -1,4 +1,4 @@
-# Python program to implement Morse Code encoder
+# Python program to implement Morse Code encoder.
 # Morse code values represented in form of dictionary
 Morse_Code_values = {'A': '.-', 'B': '-...',
                      'C': '-.-.', 'D': '-..', 'E': '.',
